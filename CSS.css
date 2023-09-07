@@ -1,0 +1,29 @@
+	<style>
+		table {
+			border: 1px solid black;
+            border-radius: 20px;
+			margin-left: auto;
+			margin-right: auto;
+            background-color: rgba(75, 60, 60, 0.359);
+		}
+
+		input[type="button"] {
+			width: 100%;
+			padding: 20px 40px;
+			background-color: rgb(2, 6, 2);
+			color: #ff4d05;
+			font-size: 70px;
+			font-weight: bold;
+			border: none;
+			border-radius: 70px;
+		}
+
+		input[type="text"] {
+			padding: 20px 30px;
+			font-size: 24px;
+			font-weight: bold;
+			border: none;
+			border-radius: 5px;
+			border: 2px solid black;
+		}
+	</style>
